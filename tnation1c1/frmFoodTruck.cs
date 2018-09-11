@@ -56,5 +56,6 @@ namespace tnation1c1
 
             txtHotDogs.Focus();
         }
+
     }
 }
