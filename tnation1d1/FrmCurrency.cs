@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace tnation1d1
 {
-    public partial class Form1 : Form
+    public partial class FrmCurrency : Form
     {
-        public Form1()
+        public FrmCurrency()
         {
             InitializeComponent();
         }
