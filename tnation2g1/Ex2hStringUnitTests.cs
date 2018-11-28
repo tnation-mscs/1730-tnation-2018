@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tnation2g1
 {
-    public class Ex2gCalculations
+    public class Ex2hStringUnitTests
     {
         public static string Switch01(string customerType)
         {
